@@ -1,0 +1,32 @@
+body{
+    background-color: #ff7979;
+    margin:0;
+    padding:0;
+  }
+  
+  .preview{
+    background-color: white;
+    border-radius: 5px;
+  }
+  
+  .preview img{
+    max-width:100%;
+  }
+  
+  
+  textarea, .preview{
+    min-height:400px;
+    padding: 5px;
+  }
+  
+  h6{
+    background-color:#e74c3c;
+    padding:10px 0;
+    border-radius:5px;
+    color:white;
+  }
+  
+  h2{
+    color:#fff;
+  }
+  
